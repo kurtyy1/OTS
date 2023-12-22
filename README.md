@@ -1,9 +1,12 @@
 Group 7: Online Ticketing System: A simulation tool for HTM students
 
 step 1: install xampp
-step 2: download the file, extract and paste to root file "htdocs"
+step 2: create a new folder in htdocs named Online_Ticketing_System
+step 2: download the file, extract and paste to Online_Ticketing_System from htdocs
 step 3: start the xampp in control panel
-step 3: open the web and search "http://localhost/phpmyadmin/"
+step 3: open the web and search "http://localhost/Online_Ticketing_System/admin" for admin and  http://localhost/Online_Ticketing_System/index.php for user
+
+password for rar = onlineticketingsystem_2023
 
 BANCOLITA, NEIL LORENZO B. 
 DOMALANTA, MARK BRIAN B.
