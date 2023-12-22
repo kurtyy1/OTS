@@ -7,7 +7,6 @@ step 2: download the file, extract the file and then copy the file inside the fo
 step 3: start the xampp in control panel
 step 3: open the web and search "http://localhost/Online_Ticketing_System/admin" for admin and  http://localhost/Online_Ticketing_System/index.php for user
 
-password for rar = onlineticketingsystem_2023
 
 BANCOLITA, NEIL LORENZO B. 
 DOMALANTA, MARK BRIAN B.
